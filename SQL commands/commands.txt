@@ -1,0 +1,2 @@
+D:/Projects/Code/nitean-backend/SQLSHIT/create_table.sql
+D:/Projects/Code/nitean-backend/SQLSHIT/drop_table.sql
